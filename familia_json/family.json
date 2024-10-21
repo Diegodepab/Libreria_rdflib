@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "Pepe",
+    "family_id": "Man",
+    "hasSon": "Juan",
+    "hasDaughter": "Lola",
+    "hasMother": "Luisa",
+    "weight": 80
+  },
+  {
+    "_id": "Lola",
+    "family_id": "Woman",
+    "hasDaughter": "Maria",
+    "hasAunt" : "Ana"
+  },
+  {
+    "_id": "Juan",
+    "family_id": "Man"
+  },
+  {
+    "_id": "Maria",
+    "family_id": "Woman"
+  },
+  {
+    "_id": "Luisa",
+    "family_id": "Woman",
+    "hasSon":"Pepe"
+  },
+  {
+    "_id": "Ana",
+    "family_id": "Woman",
+    "hasBrother": "Pepe"
+  }
+
+]

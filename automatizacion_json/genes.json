@@ -1,0 +1,71 @@
+[
+    {
+        "_id": "brca1",
+        "nombre": "brca1",
+        "descripcion": "Gen brca1 asociado con el riesgo de cáncer de mama",
+        "ubicacion": {
+            "cromosoma": "17",
+            "inicio": 41196311,
+            "fin": 41277500
+        },
+        "contenido_nucleotidos": {
+            "AT": 40,
+            "GC": 60
+        },
+        "funcion": "Regulación de la reparación del ADN",
+        "organismo": "Humano",
+        "otros_atributos": {
+            "dominio": "Factor de transcripción",
+            "enfermedades_asociadas": [
+                "Cáncer de mama",
+                "Cáncer de ovario"
+            ]
+        }
+    },
+    {
+        "_id": "tp53",
+        "nombre": "tp53",
+        "descripcion": "Gen tp53, también conocido como p53",
+        "ubicacion": {
+            "cromosoma": "17",
+            "inicio": 7571720,
+            "fin": 7590869
+        },
+        "contenido_nucleotidos": {
+            "AT": 35,
+            "GC": 65
+        },
+        "funcion": "Supresión tumoral",
+        "organismo": "Humano",
+        "otros_atributos": {
+            "dominio": "Factor de transcripción",
+            "enfermedades_asociadas": [
+                "Cáncer colorrectal",
+                "Síndrome de Li-Fraumeni"
+            ]
+        }
+    },
+    {
+        "_id": "egfr",
+        "nombre": "egfr",
+        "descripcion": "Receptor del factor de crecimiento epidérmico",
+        "ubicacion": {
+            "cromosoma": "7",
+            "inicio": 55086714,
+            "fin": 55222802
+        },
+        "contenido_nucleotidos": {
+            "AT": 30,
+            "GC": 70
+        },
+        "funcion": "Regulación del crecimiento celular",
+        "organismo": "Humano",
+        "otros_atributos": {
+            "dominio": "Receptor de tirosina quinasa",
+            "enfermedades_asociadas": [
+                "Cáncer de pulmón",
+                "Cáncer colorrectal"
+            ]
+        }
+    }
+]

@@ -1,0 +1,39 @@
+<http://www.semanticweb.org/cbarba/GeneOntology/brca1> <http://www.semanticweb.org/cbarba/GeneOntology/AT_contenido> "40"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/cbarba/GeneOntology/egfr> <http://www.semanticweb.org/cbarba/GeneOntology/funcion> "Regulación del crecimiento celular" .
+<http://www.semanticweb.org/cbarba/GeneOntology/egfr> <http://www.semanticweb.org/cbarba/GeneOntology/organismo> "Humano" .
+<http://www.semanticweb.org/cbarba/GeneOntology/brca1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/cbarba/GeneOntology/Gene> .
+<http://www.semanticweb.org/cbarba/GeneOntology/brca1> <http://www.semanticweb.org/cbarba/GeneOntology/ubicacion_inicio> "41196311"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/cbarba/GeneOntology/tp53> <http://www.semanticweb.org/cbarba/GeneOntology/dominio> "Factor de transcripción" .
+<http://www.semanticweb.org/cbarba/GeneOntology/brca1> <http://www.semanticweb.org/cbarba/GeneOntology/funcion> "Regulación de la reparación del ADN" .
+<http://www.semanticweb.org/cbarba/GeneOntology/tp53> <http://www.semanticweb.org/cbarba/GeneOntology/descripcion> "Gen tp53, también conocido como p53" .
+<http://www.semanticweb.org/cbarba/GeneOntology/egfr> <http://www.semanticweb.org/cbarba/GeneOntology/AT_contenido> "30"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/cbarba/GeneOntology/egfr> <http://www.semanticweb.org/cbarba/GeneOntology/enfermedad_asociada> "Cáncer colorrectal" .
+<http://www.semanticweb.org/cbarba/GeneOntology/egfr> <http://www.semanticweb.org/cbarba/GeneOntology/cromosoma> "7" .
+<http://www.semanticweb.org/cbarba/GeneOntology/tp53> <http://www.semanticweb.org/cbarba/GeneOntology/enfermedad_asociada> "Síndrome de Li-Fraumeni" .
+<http://www.semanticweb.org/cbarba/GeneOntology/brca1> <http://www.semanticweb.org/cbarba/GeneOntology/ubicacion_fin> "41277500"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/cbarba/GeneOntology/tp53> <http://www.semanticweb.org/cbarba/GeneOntology/cromosoma> "17" .
+<http://www.semanticweb.org/cbarba/GeneOntology/tp53> <http://www.semanticweb.org/cbarba/GeneOntology/ubicacion_inicio> "7571720"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/cbarba/GeneOntology/egfr> <http://www.semanticweb.org/cbarba/GeneOntology/dominio> "Receptor de tirosina quinasa" .
+<http://www.semanticweb.org/cbarba/GeneOntology/brca1> <http://www.semanticweb.org/cbarba/GeneOntology/dominio> "Factor de transcripción" .
+<http://www.semanticweb.org/cbarba/GeneOntology/brca1> <http://www.semanticweb.org/cbarba/GeneOntology/cromosoma> "17" .
+<http://www.semanticweb.org/cbarba/GeneOntology/tp53> <http://www.semanticweb.org/cbarba/GeneOntology/organismo> "Humano" .
+<http://www.semanticweb.org/cbarba/GeneOntology/brca1> <http://www.semanticweb.org/cbarba/GeneOntology/nombre> "brca1" .
+<http://www.semanticweb.org/cbarba/GeneOntology/tp53> <http://www.semanticweb.org/cbarba/GeneOntology/nombre> "tp53" .
+<http://www.semanticweb.org/cbarba/GeneOntology/egfr> <http://www.semanticweb.org/cbarba/GeneOntology/ubicacion_inicio> "55086714"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/cbarba/GeneOntology/egfr> <http://www.semanticweb.org/cbarba/GeneOntology/GC_contenido> "70"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/cbarba/GeneOntology/tp53> <http://www.semanticweb.org/cbarba/GeneOntology/AT_contenido> "35"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/cbarba/GeneOntology/brca1> <http://www.semanticweb.org/cbarba/GeneOntology/enfermedad_asociada> "Cáncer de ovario" .
+<http://www.semanticweb.org/cbarba/GeneOntology/brca1> <http://www.semanticweb.org/cbarba/GeneOntology/enfermedad_asociada> "Cáncer de mama" .
+<http://www.semanticweb.org/cbarba/GeneOntology/tp53> <http://www.semanticweb.org/cbarba/GeneOntology/enfermedad_asociada> "Cáncer colorrectal" .
+<http://www.semanticweb.org/cbarba/GeneOntology/brca1> <http://www.semanticweb.org/cbarba/GeneOntology/organismo> "Humano" .
+<http://www.semanticweb.org/cbarba/GeneOntology/tp53> <http://www.semanticweb.org/cbarba/GeneOntology/funcion> "Supresión tumoral" .
+<http://www.semanticweb.org/cbarba/GeneOntology/egfr> <http://www.semanticweb.org/cbarba/GeneOntology/descripcion> "Receptor del factor de crecimiento epidérmico" .
+<http://www.semanticweb.org/cbarba/GeneOntology/egfr> <http://www.semanticweb.org/cbarba/GeneOntology/enfermedad_asociada> "Cáncer de pulmón" .
+<http://www.semanticweb.org/cbarba/GeneOntology/egfr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/cbarba/GeneOntology/Gene> .
+<http://www.semanticweb.org/cbarba/GeneOntology/brca1> <http://www.semanticweb.org/cbarba/GeneOntology/descripcion> "Gen brca1 asociado con el riesgo de cáncer de mama" .
+<http://www.semanticweb.org/cbarba/GeneOntology/egfr> <http://www.semanticweb.org/cbarba/GeneOntology/ubicacion_fin> "55222802"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/cbarba/GeneOntology/brca1> <http://www.semanticweb.org/cbarba/GeneOntology/GC_contenido> "60"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/cbarba/GeneOntology/tp53> <http://www.semanticweb.org/cbarba/GeneOntology/GC_contenido> "65"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/cbarba/GeneOntology/tp53> <http://www.semanticweb.org/cbarba/GeneOntology/ubicacion_fin> "7590869"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/cbarba/GeneOntology/tp53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/cbarba/GeneOntology/Gene> .
+<http://www.semanticweb.org/cbarba/GeneOntology/egfr> <http://www.semanticweb.org/cbarba/GeneOntology/nombre> "egfr" .

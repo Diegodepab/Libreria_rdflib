@@ -1,0 +1,19 @@
+<http://www.semanticweb.org/cbarba/SplicingOntology/sa3> <http://www.semanticweb.org/cbarba/SplicingOntology/incluye_exon> <http://www.semanticweb.org/cbarba/ExonOntology/exon2_egfr> .
+<http://www.semanticweb.org/cbarba/SplicingOntology/sa1> <http://www.semanticweb.org/cbarba/SplicingOntology/asociado_a_proteina> <http://www.semanticweb.org/cbarba/ProteinOntology/Brca1> .
+<http://www.semanticweb.org/cbarba/SplicingOntology/sa2> <http://www.semanticweb.org/cbarba/SplicingOntology/descripcion> "Evento de splicing alternativo SA2" .
+<http://www.semanticweb.org/cbarba/SplicingOntology/sa1> <http://www.semanticweb.org/cbarba/SplicingOntology/incluye_exon> <http://www.semanticweb.org/cbarba/ExonOntology/exon2_brca1> .
+<http://www.semanticweb.org/cbarba/SplicingOntology/sa1> <http://www.semanticweb.org/cbarba/SplicingOntology/descripcion> "Evento de splicing alternativo SA1" .
+<http://www.semanticweb.org/cbarba/SplicingOntology/sa4> <http://www.semanticweb.org/cbarba/SplicingOntology/incluye_exon> <http://www.semanticweb.org/cbarba/ExonOntology/exon1_brca1> .
+<http://www.semanticweb.org/cbarba/SplicingOntology/sa2> <http://www.semanticweb.org/cbarba/SplicingOntology/asociado_a_proteina> <http://www.semanticweb.org/cbarba/ProteinOntology/Tp53> .
+<http://www.semanticweb.org/cbarba/SplicingOntology/sa3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/cbarba/SplicingOntology/SplicingAlternativo> .
+<http://www.semanticweb.org/cbarba/SplicingOntology/sa2> <http://www.semanticweb.org/cbarba/SplicingOntology/incluye_exon> <http://www.semanticweb.org/cbarba/ExonOntology/exon1_tp53> .
+<http://www.semanticweb.org/cbarba/SplicingOntology/sa3> <http://www.semanticweb.org/cbarba/SplicingOntology/asociado_a_proteina> <http://www.semanticweb.org/cbarba/ProteinOntology/Egfr> .
+<http://www.semanticweb.org/cbarba/SplicingOntology/sa1> <http://www.semanticweb.org/cbarba/SplicingOntology/incluye_exon> <http://www.semanticweb.org/cbarba/ExonOntology/exon1_brca1> .
+<http://www.semanticweb.org/cbarba/SplicingOntology/sa4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/cbarba/SplicingOntology/SplicingAlternativo> .
+<http://www.semanticweb.org/cbarba/SplicingOntology/sa4> <http://www.semanticweb.org/cbarba/SplicingOntology/descripcion> "Evento de splicing alternativo SA4 para generar proteína alternativa de BRCA1" .
+<http://www.semanticweb.org/cbarba/SplicingOntology/sa2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/cbarba/SplicingOntology/SplicingAlternativo> .
+<http://www.semanticweb.org/cbarba/SplicingOntology/sa1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/cbarba/SplicingOntology/SplicingAlternativo> .
+<http://www.semanticweb.org/cbarba/SplicingOntology/sa4> <http://www.semanticweb.org/cbarba/SplicingOntology/asociado_a_proteina> <http://www.semanticweb.org/cbarba/ProteinOntology/Brca1-SpliceVariant1> .
+<http://www.semanticweb.org/cbarba/SplicingOntology/sa3> <http://www.semanticweb.org/cbarba/SplicingOntology/descripcion> "Evento de splicing alternativo SA3" .
+<http://www.semanticweb.org/cbarba/SplicingOntology/sa4> <http://www.semanticweb.org/cbarba/SplicingOntology/incluye_exon> <http://www.semanticweb.org/cbarba/ExonOntology/exon2_brca1> .
+<http://www.semanticweb.org/cbarba/SplicingOntology/sa3> <http://www.semanticweb.org/cbarba/SplicingOntology/incluye_exon> <http://www.semanticweb.org/cbarba/ExonOntology/exon1_egfr> .

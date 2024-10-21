@@ -1,0 +1,30 @@
+<http://www.semanticweb.org/cbarba/SplicingOntology/exon2_egfr> <http://www.semanticweb.org/cbarba/SplicingOntology/secuencia> "CTAG..." .
+<http://www.semanticweb.org/cbarba/SplicingOntology/exon1_brca1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/cbarba/SplicingOntology/Exon> .
+<http://www.semanticweb.org/cbarba/SplicingOntology/exon2_brca1> <http://www.semanticweb.org/cbarba/SplicingOntology/ubicacion_fin> "41197750"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/cbarba/SplicingOntology/exon2_brca1> <http://www.semanticweb.org/cbarba/SplicingOntology/descripcion> "Exón 2 del gen brca1" .
+<http://www.semanticweb.org/cbarba/SplicingOntology/exon1_egfr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/cbarba/SplicingOntology/Exon> .
+<http://www.semanticweb.org/cbarba/SplicingOntology/exon2_egfr> <http://www.semanticweb.org/cbarba/SplicingOntology/gen> <http://www.semanticweb.org/cbarba/SplicingOntology/egfr> .
+<http://www.semanticweb.org/cbarba/SplicingOntology/exon2_brca1> <http://www.semanticweb.org/cbarba/SplicingOntology/gen> <http://www.semanticweb.org/cbarba/SplicingOntology/brca1> .
+<http://www.semanticweb.org/cbarba/SplicingOntology/exon1_brca1> <http://www.semanticweb.org/cbarba/SplicingOntology/descripcion> "Exón 1 del gen brca1" .
+<http://www.semanticweb.org/cbarba/SplicingOntology/exon2_egfr> <http://www.semanticweb.org/cbarba/SplicingOntology/descripcion> "Exón 2 del gen egfr" .
+<http://www.semanticweb.org/cbarba/SplicingOntology/exon2_brca1> <http://www.semanticweb.org/cbarba/SplicingOntology/ubicacion_inicio> "41197500"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/cbarba/SplicingOntology/exon1_egfr> <http://www.semanticweb.org/cbarba/SplicingOntology/gen> <http://www.semanticweb.org/cbarba/SplicingOntology/egfr> .
+<http://www.semanticweb.org/cbarba/SplicingOntology/exon1_brca1> <http://www.semanticweb.org/cbarba/SplicingOntology/ubicacion_fin> "41196500"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/cbarba/SplicingOntology/exon1_tp53> <http://www.semanticweb.org/cbarba/SplicingOntology/descripcion> "Exón 1 del gen tp53" .
+<http://www.semanticweb.org/cbarba/SplicingOntology/exon2_brca1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/cbarba/SplicingOntology/Exon> .
+<http://www.semanticweb.org/cbarba/SplicingOntology/exon1_tp53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/cbarba/SplicingOntology/Exon> .
+<http://www.semanticweb.org/cbarba/SplicingOntology/exon1_egfr> <http://www.semanticweb.org/cbarba/SplicingOntology/descripcion> "Exón 1 del gen egfr" .
+<http://www.semanticweb.org/cbarba/SplicingOntology/exon2_egfr> <http://www.semanticweb.org/cbarba/SplicingOntology/ubicacion_fin> "55088250"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/cbarba/SplicingOntology/exon2_egfr> <http://www.semanticweb.org/cbarba/SplicingOntology/ubicacion_inicio> "55088000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/cbarba/SplicingOntology/exon1_tp53> <http://www.semanticweb.org/cbarba/SplicingOntology/secuencia> "CTGA..." .
+<http://www.semanticweb.org/cbarba/SplicingOntology/exon1_egfr> <http://www.semanticweb.org/cbarba/SplicingOntology/ubicacion_fin> "55087000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/cbarba/SplicingOntology/exon2_egfr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/cbarba/SplicingOntology/Exon> .
+<http://www.semanticweb.org/cbarba/SplicingOntology/exon1_egfr> <http://www.semanticweb.org/cbarba/SplicingOntology/secuencia> "AGTC..." .
+<http://www.semanticweb.org/cbarba/SplicingOntology/exon1_tp53> <http://www.semanticweb.org/cbarba/SplicingOntology/gen> <http://www.semanticweb.org/cbarba/SplicingOntology/tp53> .
+<http://www.semanticweb.org/cbarba/SplicingOntology/exon1_tp53> <http://www.semanticweb.org/cbarba/SplicingOntology/ubicacion_inicio> "7571720"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/cbarba/SplicingOntology/exon1_brca1> <http://www.semanticweb.org/cbarba/SplicingOntology/secuencia> "ATGC..." .
+<http://www.semanticweb.org/cbarba/SplicingOntology/exon1_brca1> <http://www.semanticweb.org/cbarba/SplicingOntology/ubicacion_inicio> "41196311"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/cbarba/SplicingOntology/exon1_egfr> <http://www.semanticweb.org/cbarba/SplicingOntology/ubicacion_inicio> "55086714"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/cbarba/SplicingOntology/exon1_tp53> <http://www.semanticweb.org/cbarba/SplicingOntology/ubicacion_fin> "7572000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.semanticweb.org/cbarba/SplicingOntology/exon1_brca1> <http://www.semanticweb.org/cbarba/SplicingOntology/gen> <http://www.semanticweb.org/cbarba/SplicingOntology/brca1> .
+<http://www.semanticweb.org/cbarba/SplicingOntology/exon2_brca1> <http://www.semanticweb.org/cbarba/SplicingOntology/secuencia> "GTAC..." .

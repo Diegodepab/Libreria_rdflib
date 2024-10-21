@@ -1,0 +1,23 @@
+<http://www.semanticweb.org/cbarba/ProteinOntology/Brca1-SpliceVariant1> <http://www.semanticweb.org/cbarba/ProteinOntology/localizacion_celular> "Núcleo celular" .
+<http://www.semanticweb.org/cbarba/ProteinOntology/Brca1> <http://www.semanticweb.org/cbarba/ProteinOntology/descripcion> "Proteína asociada con el riesgo de cáncer de mama" .
+<http://www.semanticweb.org/cbarba/ProteinOntology/Egfr> <http://www.semanticweb.org/cbarba/ProteinOntology/funcion> "Función en la regulación del crecimiento celular" .
+<http://www.semanticweb.org/cbarba/ProteinOntology/Brca1-SpliceVariant1> <http://www.semanticweb.org/cbarba/ProteinOntology/estructura> "Estructura tridimensional en proceso de investigación" .
+<http://www.semanticweb.org/cbarba/ProteinOntology/Brca1> <http://www.semanticweb.org/cbarba/ProteinOntology/estructura> "Estructura tridimensional conocida" .
+<http://www.semanticweb.org/cbarba/ProteinOntology/P53> <http://www.semanticweb.org/cbarba/ProteinOntology/funcion> "Función en la supresión tumoral" .
+<http://www.semanticweb.org/cbarba/ProteinOntology/P53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/cbarba/ProteinOntology/Protein> .
+<http://www.semanticweb.org/cbarba/ProteinOntology/Brca1-SpliceVariant1> <http://www.semanticweb.org/cbarba/ProteinOntology/funcion> "Función específica derivada del splicing alternativo" .
+<http://www.semanticweb.org/cbarba/ProteinOntology/P53> <http://www.semanticweb.org/cbarba/ProteinOntology/nombre> "P53" .
+<http://www.semanticweb.org/cbarba/ProteinOntology/Brca1> <http://www.semanticweb.org/cbarba/ProteinOntology/funcion> "Función en la regulación de la reparación del ADN" .
+<http://www.semanticweb.org/cbarba/ProteinOntology/P53> <http://www.semanticweb.org/cbarba/ProteinOntology/estructura> "Estructura tridimensional conocida" .
+<http://www.semanticweb.org/cbarba/ProteinOntology/Brca1> <http://www.semanticweb.org/cbarba/ProteinOntology/localizacion_celular> "Núcleo celular" .
+<http://www.semanticweb.org/cbarba/ProteinOntology/P53> <http://www.semanticweb.org/cbarba/ProteinOntology/descripcion> "Proteína P53" .
+<http://www.semanticweb.org/cbarba/ProteinOntology/Egfr> <http://www.semanticweb.org/cbarba/ProteinOntology/descripcion> "Receptor del factor de crecimiento epidérmico" .
+<http://www.semanticweb.org/cbarba/ProteinOntology/P53> <http://www.semanticweb.org/cbarba/ProteinOntology/localizacion_celular> "Núcleo celular" .
+<http://www.semanticweb.org/cbarba/ProteinOntology/Brca1> <http://www.semanticweb.org/cbarba/ProteinOntology/nombre> "Brca1" .
+<http://www.semanticweb.org/cbarba/ProteinOntology/Brca1-SpliceVariant1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/cbarba/ProteinOntology/Protein> .
+<http://www.semanticweb.org/cbarba/ProteinOntology/Egfr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/cbarba/ProteinOntology/Protein> .
+<http://www.semanticweb.org/cbarba/ProteinOntology/Egfr> <http://www.semanticweb.org/cbarba/ProteinOntology/estructura> "Estructura tridimensional conocida" .
+<http://www.semanticweb.org/cbarba/ProteinOntology/Egfr> <http://www.semanticweb.org/cbarba/ProteinOntology/localizacion_celular> "Membrana celular" .
+<http://www.semanticweb.org/cbarba/ProteinOntology/Brca1-SpliceVariant1> <http://www.semanticweb.org/cbarba/ProteinOntology/descripcion> "Variante de la proteína Brca1 generada por splicing alternativo" .
+<http://www.semanticweb.org/cbarba/ProteinOntology/Egfr> <http://www.semanticweb.org/cbarba/ProteinOntology/nombre> "Egfr" .
+<http://www.semanticweb.org/cbarba/ProteinOntology/Brca1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/cbarba/ProteinOntology/Protein> .

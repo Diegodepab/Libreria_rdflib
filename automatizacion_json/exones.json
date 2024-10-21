@@ -1,0 +1,42 @@
+[
+    {
+        "_id": "exon1_brca1",
+        "gen_id": "brca1",
+        "inicio": 41196311,
+        "fin": 41196500,
+        "descripcion": "Exón 1 del gen brca1",
+        "contenido_nucleotidos": "ATGC..."
+    },
+    {
+        "_id": "exon2_brca1",
+        "gen_id": "brca1",
+        "inicio": 41197500,
+        "fin": 41197750,
+        "descripcion": "Exón 2 del gen brca1",
+        "contenido_nucleotidos": "GTAC..."
+    },
+    {
+        "_id": "exon1_tp53",
+        "gen_id": "tp53",
+        "inicio": 7571720,
+        "fin": 7572000,
+        "descripcion": "Exón 1 del gen tp53",
+        "contenido_nucleotidos": "CTGA..."
+    },
+    {
+        "_id": "exon1_egfr",
+        "gen_id": "egfr",
+        "inicio": 55086714,
+        "fin": 55087000,
+        "descripcion": "Exón 1 del gen egfr",
+        "contenido_nucleotidos": "AGTC..."
+    },
+    {
+        "_id": "exon2_egfr",
+        "gen_id": "egfr",
+        "inicio": 55088000,
+        "fin": 55088250,
+        "descripcion": "Exón 2 del gen egfr",
+        "contenido_nucleotidos": "CTAG..."
+    }
+]

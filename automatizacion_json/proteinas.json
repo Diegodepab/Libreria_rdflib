@@ -1,0 +1,41 @@
+[
+    {
+        "_id": "Brca1",
+        "nombre": "Brca1",
+        "descripcion": "Proteína asociada con el riesgo de cáncer de mama",
+        "funcion": "Función en la regulación de la reparación del ADN",
+        "estructura": "Estructura tridimensional conocida",
+        "localizacion_celular": "Núcleo celular",
+        "interacciones": [
+            "P53"
+        ]
+    },
+    {
+        "_id": "P53",
+        "nombre": "P53",
+        "descripcion": "Proteína P53",
+        "funcion": "Función en la supresión tumoral",
+        "estructura": "Estructura tridimensional conocida",
+        "localizacion_celular": "Núcleo celular"
+    },
+    {
+        "_id": "Egfr",
+        "nombre": "Egfr",
+        "descripcion": "Receptor del factor de crecimiento epidérmico",
+        "funcion": "Función en la regulación del crecimiento celular",
+        "estructura": "Estructura tridimensional conocida",
+        "localizacion_celular": "Membrana celular",
+        "interacciones": [
+            "P53",
+            "Brca1"
+        ]
+    },
+    {
+        "_id": "Brca1-SpliceVariant1",
+        "nombre_proteina": "Brca1-SpliceVariant1",
+        "descripcion": "Variante de la proteína Brca1 generada por splicing alternativo",
+        "funcion": "Función específica derivada del splicing alternativo",
+        "estructura": "Estructura tridimensional en proceso de investigación",
+        "localizacion_celular": "Núcleo celular"
+    }
+]

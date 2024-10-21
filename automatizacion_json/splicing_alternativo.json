@@ -1,0 +1,37 @@
+[
+    {
+        "_id": "sa1",
+        "descripcion": "Evento de splicing alternativo SA1",
+        "exones_id": [
+            "exon1_brca1",
+            "exon2_brca1"
+        ],
+        "proteina_id": "Brca1"
+    },
+    {
+        "_id": "sa2",
+        "descripcion": "Evento de splicing alternativo SA2",
+        "exones_id": [
+            "exon1_tp53"
+        ],
+        "proteina_id": "Tp53"
+    },
+    {
+        "_id": "sa3",
+        "descripcion": "Evento de splicing alternativo SA3",
+        "exones_id": [
+            "exon1_egfr",
+            "exon2_egfr"
+        ],
+        "proteina_id": "Egfr"
+    },
+    {
+        "_id": "sa4",
+        "descripcion": "Evento de splicing alternativo SA4 para generar proteína alternativa de BRCA1",
+        "exones_id": [
+            "exon2_brca1",
+            "exon1_brca1"
+        ],
+        "proteina_id": "Brca1-SpliceVariant1"
+    }
+]
